@@ -1,24 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Form from 'react-jsonschema-form';
+import schemaData from './schema/dataset.json';
+import uiData from './schema/dataset.ui.json';
+
+// const mySchema = () => JSON.parse(JSON.stringify(schemaData));
+
+const MyForm = () => ( <Form schema={schemaData} uiSchema={uiData} /> );
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <MyForm />
     </div>
   );
 }
