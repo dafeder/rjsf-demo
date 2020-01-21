@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rjsf-demo/static/css/main.d04f3dde.chunk.css",
+    "main.js": "/rjsf-demo/static/js/main.2cb3c2ea.chunk.js",
+    "main.js.map": "/rjsf-demo/static/js/main.2cb3c2ea.chunk.js.map",
+    "runtime-main.js": "/rjsf-demo/static/js/runtime-main.9fb59d5e.js",
+    "runtime-main.js.map": "/rjsf-demo/static/js/runtime-main.9fb59d5e.js.map",
+    "static/css/2.29924e93.chunk.css": "/rjsf-demo/static/css/2.29924e93.chunk.css",
+    "static/js/2.9211cdfb.chunk.js": "/rjsf-demo/static/js/2.9211cdfb.chunk.js",
+    "static/js/2.9211cdfb.chunk.js.map": "/rjsf-demo/static/js/2.9211cdfb.chunk.js.map",
+    "index.html": "/rjsf-demo/index.html",
+    "precache-manifest.40294ba6a25937732ea60eba94b4789c.js": "/rjsf-demo/precache-manifest.40294ba6a25937732ea60eba94b4789c.js",
+    "service-worker.js": "/rjsf-demo/service-worker.js",
+    "static/css/2.29924e93.chunk.css.map": "/rjsf-demo/static/css/2.29924e93.chunk.css.map",
+    "static/css/main.d04f3dde.chunk.css.map": "/rjsf-demo/static/css/main.d04f3dde.chunk.css.map",
+    "static/js/2.9211cdfb.chunk.js.LICENSE": "/rjsf-demo/static/js/2.9211cdfb.chunk.js.LICENSE",
+    "static/media/bootstrap.css": "/rjsf-demo/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fb59d5e.js",
+    "static/css/2.29924e93.chunk.css",
+    "static/js/2.9211cdfb.chunk.js",
+    "static/css/main.d04f3dde.chunk.css",
+    "static/js/main.2cb3c2ea.chunk.js"
+  ]
+}
